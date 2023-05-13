@@ -5,3 +5,4 @@
 *.py
 
 !/main/permissions.yml
+!/main/commands.yml
