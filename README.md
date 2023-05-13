@@ -8,6 +8,14 @@
 
 ・5分毎にMinecraftサーバーが起動しているかチェックし、もし起動してないかったらMinecraftサーバーを起動させる
 
+## ディレクトリの説明
+
+### /main
+Minecraftサーバーのディレクトリ
+
+### /waterfall
+Waterfall(プロキシサーバー)のディレクトリ
+
 ## .screenrc
 
 /home/ユーザー名/.screenrc
