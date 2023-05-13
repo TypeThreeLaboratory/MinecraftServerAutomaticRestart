@@ -1,0 +1,5 @@
+/main/*
+/waterfall/*
+!/main/*.sh
+!/waterfall/*.sh
+*.py
