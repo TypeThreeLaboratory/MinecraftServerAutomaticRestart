@@ -1,0 +1,5 @@
+server.console:
+  description: Vaultアップデート通知OFF
+  default: op
+  children:
+    vault.update: false

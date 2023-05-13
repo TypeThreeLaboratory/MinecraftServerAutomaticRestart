@@ -3,3 +3,6 @@
 !/main/*.sh
 !/waterfall/*.sh
 *.py
+
+!/main/permissions.yml
+!/main/commands.yml
